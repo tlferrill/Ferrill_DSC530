@@ -8,4 +8,4 @@ To run the code in the .ipynb file, load this file into the code folder of the T
 
 The analysis uses the red wine dataset only.
 
-The code obtains the dataset from its website location and not from within this folder.
+The code reads the dataset from its website location and not from within this folder.
